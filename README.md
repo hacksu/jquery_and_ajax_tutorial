@@ -14,7 +14,7 @@ Ajax can be used with vanilla javascript, but it's way easier to use with JQuery
 
 ## Step 2: Setting up our document
 
-We're going to be using (Codepen)[http://codepen.io] for this project! Open it up, click `Create` in the upper right hand corner, and click `New Pen`.
+We're going to be using [Codepen](http://codepen.io) for this project! Open it up, click `Create` in the upper right hand corner, and click `New Pen`.
 
 In the HTML box, write this for now. I'm not going to go over HTML in this tutorial, so if you don't know what these elements are, feel free to google:
 
