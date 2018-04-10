@@ -1,7 +1,9 @@
 # JQuery and Ajax Tutorial
 
 Hacksu goers: you can follow along here: https://codepen.io/bhollan5/professor/mxvZPg/
+
 Here's a link to the first API we're using: https://yesno.wtf/api
+
 Here's a link to the second API we're using: http://funtranslations.com/api
 
 ## Step 1: Wait, what are we doing again?
